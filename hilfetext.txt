@@ -1,0 +1,23 @@
+-------------------------------------------------------------------------------
+                                  HILFE
+-------------------------------------------------------------------------------
+
+Nutze einfache deutsche Sätze, um die Anweisungen einzugeben. 
+
+Aktuelle Position:  umschauen, umsehen
+Dein Gepäck:        inventar
+Navigieren:         gehe richtung norden, gehe norden, norden
+                    gehe keller, keller
+Etwas untersuchen:  betrachte das buch, betrachte buch
+Etwas aufnehmen:    nimm das buch, nimm buch
+Entferne Buch:      entferne das buch, entferne buch
+
+Etwas verwenden:    benutze schlüssel mit truhe, benutze schlüssel
+Etwas einschalten:  schalte ein lampe, einschalten lampe, 
+Etwas ausschalten:  schalte aus lampe, ausschalten lampe 
+Sprechen:           sage *wort*, rufe *wort*, *wort*
+Hinweis:            hinweis, tipp
+
+Drücke 'Eingabe', um fortzusetzen.
+
+-------------------------------------------------------------------------------

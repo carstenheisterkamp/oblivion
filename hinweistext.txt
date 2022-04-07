@@ -1,0 +1,15 @@
+-------------------------------------------------------------------------------
+                                  HINWEIS
+-------------------------------------------------------------------------------
+
+Du kannst das Gebiet erst verlassen, wenn du dem Wächter die richtige Parole 
+sagst. Die Information dazu findest du in der Blockhütte. Das Buch, das du bei 
+dir trägst, sagt dir indirekt, wie du diese entschlüsseln kannst. Dazu ist es 
+hilfreich zu wissen, wie Tasten auf dem Computer codiert werden. 
+
+Wenn ihr gar nicht dahinter kommt, versucht es mal hier:
+https://cryptii.com/pipes/text-decimal
+
+Drücke 'Eingabe', um fortzusetzen.
+
+-------------------------------------------------------------------------------
