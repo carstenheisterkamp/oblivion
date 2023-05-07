@@ -519,11 +519,11 @@ betrachte(Gegenstand) :-
 
 % --------------------------------------------------------------------------- %
 % PFADE AUFLISTEN
-% Das Prädikat dient der Ausgabe der, von einer Position aus, begehbaren Pfade. 
+% Das Prädikat dient der Ausgabe der von einer Position aus, begehbaren Pfade. 
 % Die Position wird beim Aufruf des Prädikats als Parameter übergeben. So kann 
 % sie unabhängig von der Position der Spielfigur verwendet werden und ist so 
 % flexibler. Dazu wird erst geprüft, welche Pfade es von der aktuellen Position 
-% aus, in welche Richtung gibt, gibt. Dann wird die entsprechende Beschreibung 
+% aus, in welche Richtung gibt. Dann wird die entsprechende Beschreibung 
 % von Richtung und Ziel geholt. Beide werden dann zur Ausgabe in format/1 
 % eingesetzt. Das fail/0 am Ende dient dazu da Backtracking zu erzwingen, das 
 % heisst nach weiteren Lösungen zu suchen und so alle Pfade auszugeben. Die 
