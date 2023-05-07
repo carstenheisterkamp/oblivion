@@ -221,7 +221,7 @@ outro :-
     get0(_). 
      
 beenden :-
-    writeln("Gibs du schon auf? So sei es."), nl, 
+    writeln("Gibst du schon auf? So sei es."), nl, 
     sleep(2),
     beendenmenu.
 
