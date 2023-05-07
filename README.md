@@ -7,4 +7,4 @@ It is tested wih SWI-Prolog.
 
 ## INSTALLATION / HOW TO USE
 Clone or download the repository, in the terminal navigate to the folder, start SWI Prolog (swipl) and consult oblivion.pl.
-Start the game by typing 'oblivion'.
+Start the game by typing 'oblivion.'.
